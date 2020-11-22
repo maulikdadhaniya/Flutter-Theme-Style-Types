@@ -11,7 +11,8 @@
       home: MyHomePage(title: 'Flutter Demo Home Page'),
     );
       </pre></td><td><img src="https://github.com/maulikdadhaniya/Flutter-Theme-Style-Types/blob/main/assets/defaultlight.jpg" width=200></tr>
-
+ </table>
+ <table>
        <tr><td> <b>Deafult Theme Dark</b> </td></tr>
   <tr>
     <td>
