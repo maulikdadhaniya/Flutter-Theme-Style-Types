@@ -56,6 +56,6 @@
             ),
       home: MyHomePage(title: 'Flutter Demo Home Page'),
       );
-      </pre></td><td><img src="https://github.com/maulikdadhaniya/Flutter-Theme-Style-Types/blob/main/assets/adaptivetheme.jpg" width=200></tr>
+      </pre></td><td><img src="https://github.com/maulikdadhaniya/Flutter-Theme-Style-Types/blob/main/assets/adaptivtheme.jpg" width=200></tr>
       </table>
 
