@@ -1,5 +1,22 @@
 # Flutter Theme Basic
 
+- [x] Default Themes
+- [x] Global Themes
+- [x] Adapting Themes
+- [ ] Dynamic Themes
+
+
+## Using Themes
+
+```dart
+floatingActionButton: FloatingActionButton(
+  onPressed: _incrementCounter,
+  tooltip: 'Increment',
+  backgroundColor: Theme.of(context).accentColor,
+  child: Icon(Icons.add),
+),
+```
+
 <table>
   <tr><td> <b>Deafult Theme Light</b> </td></tr>
   <tr>
